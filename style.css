@@ -1,1 +1,26 @@
+h2 span{color: orange;}
+section{
+    display: flex;
+    
+}
 
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{width: 80%;
+    
+}
+.section-margin{margin-top: 100px;}
+body{background-image: url(top-banner.png);
+background-repeat: no-repeat;}
+.experience{
+    display: flex;
+}
+.half-widtha{
+    width: 50%;
+    padding-left:5px 10px;
+    margin: left 5px;margin-right: 5px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
